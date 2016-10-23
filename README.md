@@ -1,2 +1,2 @@
-# Paper-on-sysyem-biology-and-bioinformatic
+# Paper on system biology and bioinformatic
 collection of inspiring papers
